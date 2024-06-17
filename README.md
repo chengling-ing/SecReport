@@ -91,7 +91,7 @@ web访问 :   http://ip
 
 默认开启了动态口令二次验证，需使用二次验证软件验证即可，时间差不能太大
 
-![1718663950787](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\1718663950787.png)
+![1718663950787](https://github.com/chengling-ing/SecReport/blob/master/image/1718663950787.png)
 
 
 
