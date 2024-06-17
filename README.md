@@ -75,7 +75,7 @@ bash install_image.sh
 bash run.sh
 ```
 
-![1718663421056](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\1718663421056.png)
+![1718663421056](https://github.com/chengling-ing/SecReport/blob/master/image/1718663421056.png)
 
 
 
