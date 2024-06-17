@@ -83,7 +83,7 @@ bash run.sh
 
 web访问 :   http://ip
 
-![1718663536585](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\1718663536585.png)
+![1718663536585](https://github.com/chengling-ing/SecReport/blob/master/image/1718663536585.png)
 
 初始化管理员
 
