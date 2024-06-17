@@ -87,7 +87,7 @@ web访问 :   http://ip
 
 初始化管理员
 
-![1718663584336](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\1718663584336.png)
+![1718663584336](https://github.com/chengling-ing/SecReport/blob/master/image/1718663584336.png)
 
 默认开启了动态口令二次验证，需使用二次验证软件验证即可，时间差不能太大
 
