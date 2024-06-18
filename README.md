@@ -40,7 +40,10 @@ ChatGPT加持的，多人协同信息安全渗透测试报告`编写`/`导出`�
 
 ## 下载
 
-SecReport https://www.alipan.com/s/qTJ7gg3U124 提取码: os89 点击链接保存，或者复制本段内容，打开「阿里云盘」APP即可下载 
+通过百度网盘分享的文件：SecReport
+链接:https://pan.baidu.com/s/1kPi1A-PSP6fDBLt9DiOMeA?pwd=S520 
+提取码:S520
+复制这段内容打开「百度网盘APP 即可获取」
 
 ![1718663155203](image/1718663155203.png)
 
