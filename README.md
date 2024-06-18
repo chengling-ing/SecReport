@@ -9,6 +9,7 @@ ChatGPT加持的，多人协同信息安全渗透测试报告`编写`/`导出`�
 - 标准化渗透测试流程
 - 多人协同编辑
 - 自定义导出模版
+- 支持自定义上传模板文件
 - ChatGPT生成漏洞简介及修复方案
 - 复测报告生成
 - 多人协同的临时信息同步窗口
@@ -41,7 +42,7 @@ ChatGPT加持的，多人协同信息安全渗透测试报告`编写`/`导出`�
 
 SecReport https://www.alipan.com/s/qTJ7gg3U124 提取码: os89 点击链接保存，或者复制本段内容，打开「阿里云盘」APP即可下载 
 
-![1718663155203](https://github.com/chengling-ing/SecReport/blob/master/image/1718663155203.png)
+![1718663155203](image/1718663155203.png)
 
 
 
